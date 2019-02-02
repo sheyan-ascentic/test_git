@@ -1,0 +1,1 @@
+Your transaction has been successful but there was a problem connecting back to the merchant's web site. Please contact the merchant and advise them that you received this error message.
